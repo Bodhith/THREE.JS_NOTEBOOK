@@ -25,3 +25,6 @@ PerspectiveCamera:
       This don't need any light source by default.
     2) Lambert:
       In order to see the object we needs a light source by default.
+
+
+
