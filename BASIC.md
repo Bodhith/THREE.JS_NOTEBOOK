@@ -17,4 +17,7 @@ PerspectiveCamera:
       What that means, is that objects further away from the camera than the value of far or closer than near won't be rendered.
   
   
-  
+  Materials:
+    There are 3 different types of materials. Basic, Lambert and Phong.
+    ![image](https://user-images.githubusercontent.com/34181215/118680589-80892a00-b81c-11eb-9b65-202025931104.png)
+
