@@ -6,6 +6,7 @@ There are a few different cameras in three.js.
 
 
 PerspectiveCamera:
+  PerspectiveCamera( fov : Number, aspect : Number, near : Number, far : Number )
   1) Field of View(FOV):
       It is the extent of the scene that is seen on the display at any given moment. The value is in degrees.
       
